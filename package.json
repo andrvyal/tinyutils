@@ -1,0 +1,17 @@
+{
+  "bugs": {
+    "url": "https://github.com/andrvyal/tinyutils/issues"
+  },
+  "description": "",
+  "license": "MIT",
+  "name": "tinyutils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrvyal/tinyutils.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "title": "Tiny Utils",
+  "version": "0.1.0"
+}
